@@ -1,0 +1,44 @@
+@media(width <=1000px){
+    .deatils .developer{
+        font-size: 2rem;
+    }
+    .wrapper-contact .col-lg-3{
+       margin-top: 2rem;
+    }
+    .wrapper-contact .col-lg-4{
+       margin-top: 2rem;
+    }
+    .project{
+      margin-top: 1.5rem;
+    }
+    
+}
+
+@media(width <=400px){
+    .deatils .developer{
+        font-size: 2rem;
+    }
+    
+    .box-2 p{
+        font-size: 1.2rem;
+        line-height: -3px;
+      }
+
+      .box-2 .col-lg-6{
+        margin-bottom: 1rem;
+      }
+
+      .project{
+        margin-top: 1.5rem;
+        border-radius: 3px;
+      }
+      .wrapper-contact .col-lg-3{
+        margin-top: 2rem;
+     }
+     .wrapper-contact .col-lg-4{
+        margin-top: 2rem;
+     }
+     .project{
+       margin-top: 1.5rem;
+     }
+}
